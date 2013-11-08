@@ -1,0 +1,19 @@
+C:\Users\jimpig\Downloads\InternExample_SHStudentCard-master\InternExample_SHStudentCard-master\SHStudentCard\bin\debug\SHStudentCard.dll
+C:\Users\jimpig\Downloads\InternExample_SHStudentCard-master\InternExample_SHStudentCard-master\SHStudentCard\bin\debug\SHStudentCard.pdb
+C:\Users\jimpig\Downloads\InternExample_SHStudentCard-master\InternExample_SHStudentCard-master\SHStudentCard\bin\debug\DevComponents.DotNetBar2.dll
+C:\Users\jimpig\Downloads\InternExample_SHStudentCard-master\InternExample_SHStudentCard-master\SHStudentCard\obj\Debug\SHStudentCard.csprojResolveAssemblyReference.cache
+C:\Users\jimpig\Downloads\InternExample_SHStudentCard-master\InternExample_SHStudentCard-master\SHStudentCard\obj\Debug\SHStudentCard.Forms.StudentCardForm.resources
+C:\Users\jimpig\Downloads\InternExample_SHStudentCard-master\InternExample_SHStudentCard-master\SHStudentCard\obj\Debug\SHStudentCard.Properties.Resources.resources
+C:\Users\jimpig\Downloads\InternExample_SHStudentCard-master\InternExample_SHStudentCard-master\SHStudentCard\obj\Debug\SHStudentCard.csproj.GenerateResource.Cache
+C:\Users\jimpig\Downloads\InternExample_SHStudentCard-master\InternExample_SHStudentCard-master\SHStudentCard\obj\Debug\SHStudentCard.dll
+C:\Users\jimpig\Downloads\InternExample_SHStudentCard-master\InternExample_SHStudentCard-master\SHStudentCard\obj\Debug\SHStudentCard.pdb
+C:\Users\jimpig\Desktop\ischool desktop\localmodules\card\SHStudentCard.dll
+C:\Users\jimpig\Desktop\ischool desktop\localmodules\card\SHStudentCard.pdb
+C:\Users\jimpig\Desktop\ischool desktop\localmodules\Contacts\SHStudentCard.dll
+C:\Users\jimpig\Desktop\ischool desktop\localmodules\Contacts\SHStudentCard.pdb
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\obj\Debug\SHStudentCard.csprojResolveAssemblyReference.cache
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\obj\Debug\SHStudentCard.Forms.StudentCardForm.resources
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\obj\Debug\SHStudentCard.Properties.Resources.resources
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\obj\Debug\SHStudentCard.csproj.GenerateResource.Cache
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\obj\Debug\SHStudentCard.dll
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\obj\Debug\SHStudentCard.pdb

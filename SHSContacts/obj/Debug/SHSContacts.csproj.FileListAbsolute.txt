@@ -1,0 +1,16 @@
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.csprojResolveAssemblyReference.cache
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.Forms.SHSContactsForm.resources
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.Properties.Resources.resources
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.csproj.GenerateResource.Cache
+C:\Users\jimpig\Desktop\ischool desktop\localmodules\Contacts\SHSContacts.dll
+C:\Users\jimpig\Desktop\ischool desktop\localmodules\Contacts\SHSContacts.pdb
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.dll
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.pdb
+C:\Users\jimpig\Downloads\ischool 的資料\練習\學生通訊錄郵寄格式\Desktop\ischool desktop\localmodules\Contacts\SHSContacts.dll
+C:\Users\jimpig\Downloads\ischool 的資料\練習\學生通訊錄郵寄格式\Desktop\ischool desktop\localmodules\Contacts\SHSContacts.pdb
+C:\Users\jimpig\Downloads\ischool 的資料\練習\學生通訊錄郵寄格式\學生通訊錄郵寄格式修改完成版\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.csprojResolveAssemblyReference.cache
+C:\Users\jimpig\Downloads\ischool 的資料\練習\學生通訊錄郵寄格式\學生通訊錄郵寄格式修改完成版\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.Forms.SHSContactsForm.resources
+C:\Users\jimpig\Downloads\ischool 的資料\練習\學生通訊錄郵寄格式\學生通訊錄郵寄格式修改完成版\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.Properties.Resources.resources
+C:\Users\jimpig\Downloads\ischool 的資料\練習\學生通訊錄郵寄格式\學生通訊錄郵寄格式修改完成版\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.csproj.GenerateResource.Cache
+C:\Users\jimpig\Downloads\ischool 的資料\練習\學生通訊錄郵寄格式\學生通訊錄郵寄格式修改完成版\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.dll
+C:\Users\jimpig\Downloads\ischool 的資料\練習\學生通訊錄郵寄格式\學生通訊錄郵寄格式修改完成版\SHSContacts-master\SHSContacts\SHSContacts\obj\Debug\SHSContacts.pdb

@@ -1,0 +1,7 @@
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\bin\Release\SHStudentCard.dll
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\bin\Release\SHStudentCard.pdb
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\obj\Release\SHStudentCard.Forms.StudentCardForm.resources
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\obj\Release\SHStudentCard.Properties.Resources.resources
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\obj\Release\SHStudentCard.csproj.GenerateResource.Cache
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\obj\Release\SHStudentCard.dll
+C:\Users\jimpig\Downloads\SHSContacts-master\SHSContacts\SHStudentCard\obj\Release\SHStudentCard.pdb
